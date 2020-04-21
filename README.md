@@ -20,6 +20,6 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 
 https://www.freecodecamp.org/forum
 
-### Demo:
+### Api Link:
 
 https://hip-cobalt-chalk.glitch.me
